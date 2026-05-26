@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Learn TypeScript",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Build backend",
+    "completed": true
+  }
+]
